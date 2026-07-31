@@ -1,0 +1,13 @@
+# MaxRewards
+
+> MaxRewards helps you manage your credit cards and maximize rewards. Track spending, automatically activate card offers, compare credit cards, and get personalized recommendations to earn more cash back and points.
+
+## Credit cards
+
+- [Credit cards](https://maxrewards.com/credit-cards): Browse credit cards with detailed rewards rates, welcome offers, benefits, and fee breakdowns.
+- [Best credit cards](https://maxrewards.com/credit-cards/best): Curated best-card lists by category — cash back, travel, no annual fee, business, and by issuer.
+
+## Product
+
+- [Download the app](https://maxrewards.com/download-app): Get the MaxRewards app for iOS and Android.
+- [About](https://maxrewards.com/about): About MaxRewards and how it works.
